@@ -64,12 +64,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pushtell/react-ab-test.git"
+    "url": "git+https://github.com/akurganow/react-ab-test.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pushtell/react-ab-test/issues"
+    "url": "https://github.com/akurganow/react-ab-test/issues"
   },
-  "homepage": "https://github.com/pushtell/react-ab-test#readme"
+  "homepage": "https://github.com/akurganow/react-ab-test#readme"
 }
